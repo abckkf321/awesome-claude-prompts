@@ -157,6 +157,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Simulate A Job Interview](#simulate-a-job-interview)
 - [Learn a new topic using AI](#learn-a-new-topic-using-ai)
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
+- [Claude.ai 中文界面](https://github.com/abckkf321/claude-translate-extension)- Chrome/Edge 扩展，将 Claude.ai UI 翻译为简体中文，覆盖 1300+ 词条
 
 
 ## AI Resume（with Claude Artifacts)
